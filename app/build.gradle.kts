@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.kidshield"
+    namespace = "com.simats.kidshield"
     compileSdk = 36
 
     defaultConfig {
